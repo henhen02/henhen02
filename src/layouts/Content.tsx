@@ -32,7 +32,7 @@ const Content = () => {
           <div>
             <p className="text-gray-700">
               Hello there! I'm Hendri, a student from the class of 2020,
-              currently pursuing my degree in Computer Engineering at the
+              currently pursuing my degree in Informatics Engineering at the
               Institute of Technology Sumatera. I have a keen interest in
               frontend development and am always eager to learn more about it.
               Being a part of the vibrant community at the Institute of
