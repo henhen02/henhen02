@@ -1,29 +1,3 @@
-# Web Porto Hendri Aldi Zulfan
+### Hello there 👋
 
-## Technologies and Frameworks Used
-
-This application uses the following technologies and frameworks:
-
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vite](https://vitejs.dev/)
-
-For more information on how to use these technologies and frameworks, please refer to their respective documentation.
-
-## Running the Application
-
-To run the application, follow these steps:
-
-1. Clone the repository
-2. Install dependencies by running `npm install`
-3. Start the development server by running `npm run dev`
-
-## Author
-
-Hendri Aldi Zulfan
-[henhen02](https://github.com/henhen02)
-
-## Preview
-
-[https://henhen02.github.io/porto/](https://henhen02.github.io/porto/)
+Hello there! I'm Hendri, a student from the class of 2020, currently pursuing my degree in Informatics Engineering at the Institute of Technology Sumatera. I have a keen interest in frontend development and am always eager to learn more about it. Being a part of the vibrant community at the Institute of Technology Sumatera has been an enriching experience. It has provided me with numerous opportunities to learn, grow, and collaborate with fellow students who share the same passion for technology. I enjoy exploring new technologies and tools related to frontend development. I believe that staying updated with the latest trends and technologies is crucial in this ever-evolving field. I'm excited about the journey ahead and look forward to making a positive impact through my skills and knowledge in frontend development. Thank you for taking the time to learn more about me!
