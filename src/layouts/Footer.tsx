@@ -2,6 +2,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaGithub } from "react-icons/fa";
 import { AiFillMail } from "react-icons/ai";
 
 const Footer = () => {
+  const year = new Date().getFullYear();
   return (
     <footer className="footer-container bg-[#213555] mt-10">
       <div className="footer-content flex flex-col justify-between md:flex-row items-start max-w-6xl mx-auto p-4 md:p-8">
@@ -109,7 +110,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="text-[#D8C4B6] text-center p-5 text-[16px]">
-        &copy; 2023 henhen02
+        &copy; {year} henhen02
       </p>
     </footer>
   );
